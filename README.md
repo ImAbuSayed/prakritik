@@ -10,10 +10,10 @@
 |-------|---------|
 | Title | Prakritik |
 | Written By | [Abu Sayed](https://abusayed.com.bd/) |
-| Lyric Writing Date | May 07, 2026 |
+| Lyric Writing Date | May 05, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/prakritik/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Get Permission to Use Prakritik](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [Official Usage Rights for Prakritik](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
