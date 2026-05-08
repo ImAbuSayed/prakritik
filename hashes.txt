@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Prakritik
+
+This log tracks the cryptographic history and versioning for the song **Prakritik** (prakritik).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-08T16:42:29.527067 | `v1` | `9f962a5154ece8a36aaec329da4055652be2930e154f80b72c1f4f239bd2df5f` | `1786b064d9826dfe7948bdfa3fe9f8026e62c480e610633e15ab94091acc27ab` | `2026-05-08_prakritik-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
